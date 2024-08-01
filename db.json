@@ -1,0 +1,95 @@
+{
+  "users": [
+    {
+      "name": "habib",
+      "age": "39",
+      "address": "rwp",
+      "phone": "1212121221",
+      "id": 9
+    },
+    {
+      "name": "qasim",
+      "age": "35",
+      "address": "jhelumadsad",
+      "phone": "77889988",
+      "id": 10
+    },
+    {
+      "name": "aleem",
+      "age": "29",
+      "address": "isb",
+      "phone": "258963147",
+      "id": 11
+    },
+    {
+      "name": "mubashar",
+      "age": "26",
+      "address": "gujranwala",
+      "phone": "12354698",
+      "id": 12
+    },
+    {
+      "name": "admin",
+      "age": "49",
+      "address": "civil lines",
+      "phone": "01111111",
+      "id": 13
+    },
+    {
+      "name": "admin",
+      "age": "49",
+      "address": "civil lines",
+      "phone": "01111111",
+      "id": 14
+    },
+    {
+      "name": "habib",
+      "age": "39",
+      "address": "rwp",
+      "phone": "1212121221",
+      "id": 15
+    },
+    {
+      "name": "admin",
+      "age": "49",
+      "address": "civil clajdlsakjdljasl",
+      "phone": "01111111",
+      "id": 16
+    },
+    {
+      "name": "admin",
+      "age": "4911",
+      "address": "civil cicles",
+      "phone": "01111111",
+      "id": 17
+    },
+    {
+      "name": " muneeb",
+      "age": " 35",
+      "address": " jhelum",
+      "phone": " 02136448",
+      "id": 18
+    },
+    {
+      "name": " ali",
+      "age": " 26",
+      "address": " lahore",
+      "phone": " 4545454",
+      "id": 19
+    },
+    {
+      "name": "FARAZ",
+      "age": " 29",
+      "address": " jhelum",
+      "phone": " 787878787",
+      "id": 20
+    },
+    {
+      "name": " adil",
+      "age": "33",
+      "address": "gujranwala",
+      "phone": " 456789",
+      "id": 21
+    }
+  ]
+}
